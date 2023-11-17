@@ -1,0 +1,4 @@
+section: 
+  decisionpoint: 
+    launch_organization_id: "GEICO QA"
+    launch_url: "http://geico-qa/DecisionPoint.application"
