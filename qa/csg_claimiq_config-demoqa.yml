@@ -1,0 +1,5 @@
+section: 
+  decisionpoint: 
+    launch_organization_id: "DEMO QA"
+    launch_url: "http://demo-qa/DecisionPoint.application"
+    
