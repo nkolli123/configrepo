@@ -1,0 +1,5 @@
+csg_claimiq_config-geicoprod.yml    
+ section: 
+  decisionpoint: 
+    launch_organization_id: "GEICO PROD"
+    launch_url: "http://geico-prod/DecisionPoint.application"
