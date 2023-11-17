@@ -1,0 +1,4 @@
+section: 
+  decisionpoint: 
+    launch_organization_id: "DEMO PROD"
+    launch_url: "http://demo-prod/DecisionPoint.application"
