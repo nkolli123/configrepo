@@ -1,0 +1,10 @@
+section: 
+  decisionpoint: 
+    launch_organization_id: "[ORG_ID]"
+    launch_url: "[DP URL]"
+    saml2_assertion_consumer_url: "[DP SAML URL]"
+    sso_encrypt_assertion_submitted: false
+  
+  global:
+    currency: "$"
+    email_server_address: "mail.mitchell.com"
