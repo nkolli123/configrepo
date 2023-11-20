@@ -1,7 +1,7 @@
 section: 
   decisionpoint: 
     launch_organization_id: "[ORG_ID]"
-    launch_url: "[DP URL]"
+    launch_url: "[DP URL] - baseconfig"
     saml2_assertion_consumer_url: "[DP SAML URL]"
     sso_encrypt_assertion_submitted: false
   
