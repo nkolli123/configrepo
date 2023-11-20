@@ -1,6 +1,6 @@
 section: 
   decisionpoint: 
     launch_organization_id: "GEICO"
-    launch_url: "http://10.0.21.133.geico/DecisionPoint.application"
+    launch_url: "http://10.0.21.133.geico/DecisionPoint.application - /GEICO"
     saml2_assertion_consumer_url: "http://10.0.21.133.geico/DPAssertionConsumerService.aspx"
     sso_encrypt_assertion_submitted: true
